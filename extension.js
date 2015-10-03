@@ -1,3 +1,5 @@
+<script type="text/javascript">
+
 (function(ext) {
     // Cleanup function when the extension is unloaded
     ext._shutdown = function() {};
@@ -32,3 +34,5 @@
     // Register the extension
     ScratchExtensions.register('Sample extension', descriptor, ext);
 })({});
+
+</script>
