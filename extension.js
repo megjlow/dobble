@@ -1,3 +1,5 @@
+// http://rawgit.com/megjlow/dobble/master/extension.js
+
 (function(ext) {
     // Cleanup function when the extension is unloaded
     ext._shutdown = function() {};
